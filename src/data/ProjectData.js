@@ -40,7 +40,7 @@ export const projectData = [
         "teck": "React, Css",
         "func": "타이핑 애니메이션, 반응형 UI",
         "git": "https://github.com/wjdehddn/portfolio",
-        "url": "",
+        "url": "https://portfolio-amber-psi-52.vercel.app/",
         "truble": "",
         "belog": "https://velog.io/@wjdehddn/포트폴리오-개발",
     },
