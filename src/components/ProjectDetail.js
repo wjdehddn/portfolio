@@ -23,6 +23,7 @@ const ProjectDetail = () => {
             <p><strong>기간:</strong> {project.date}</p>
             <p><strong>사용 기술:</strong> {project.teck}</p>
             <p><strong>주요 기능:</strong> {project.func}</p>
+            <p><strong>기여도:</strong> {project.percent}</p>
             {project.git && (
               <a href={project.git} target="_blank" rel="noopener noreferrer">
                 🔗 GitHub
