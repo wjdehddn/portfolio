@@ -1,0 +1,52 @@
+.email-button {
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+.tech-stack {
+    width: 100%;
+    text-align: left;
+}
+
+.tech-stack > img {
+    width: 10%;
+    height: 40px;
+    margin-right: 1.25%;
+    margin-bottom: 10px;
+}
+
+.tech-stack > img:last-child {
+    margin-right: 0;
+}
+
+@media (max-width: 1200px) {
+    .tech-stack > img {
+        width: 19%;
+        height: 40px;
+        margin-right: 1.25%;
+    }
+    
+    .tech-stack > img:nth-child(5) {
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 768px) {
+    .email-button > img {
+        width: 300px;
+    }
+
+    .tech-stack > img {
+        width: 32%;
+        height: 40px;
+        margin-right: 2%;
+    }
+
+    .tech-stack > img:nth-child(5) {
+        margin-right: 2%;
+    }
+    
+    .tech-stack > img:nth-child(3n) {
+        margin-right: 0;
+    }
+}

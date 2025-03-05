@@ -1,0 +1,24 @@
+.footer {
+    display: flex;
+    padding: 40px 5%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.footer > p {
+  font-size: 14px;
+}
+
+.email {
+  margin-bottom: 5px;
+}
+
+.email a {
+    font-weight: bold;
+}
+
+.email a:hover {
+  text-decoration: underline;
+}  
