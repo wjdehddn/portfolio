@@ -45,7 +45,7 @@ export const projectData = [
         "percent": "100%",
         "url": "https://portfolio-amber-psi-52.vercel.app/",
         "truble": "",
-        "belog": "https://velog.io/@wjdehddn/포켓몬-웹앱-개발",
+        "belog": "https://velog.io/@wjdehddn/포트폴리오-개발",
     },
     {
         "adult": false,
@@ -60,7 +60,7 @@ export const projectData = [
         "git": "https://github.com/wjdehddn/gameproject",
         "percent": "100%",
         "url": "https://gameproject-sandy.vercel.app/",
-        "truble": "https://velog.io/@wjdehddn/풀스택-웹앱-개발-트러블슈팅",
-        "belog": "https://velog.io/@wjdehddn/풀스택-웹-애플리케이션-개발",
+        "truble": "Vercel에서 SPA 새로고침 시 404 오류, CORS 오류로 API 호출 실패 해결",
+        "belog": "https://velog.io/@wjdehddn/풀스택-웹앱-개발",
     },
 ]
